@@ -41,10 +41,13 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 * [מפתחים חסרי תרבות - פרק 92 - איפה מרוויחים יותר? בסטראטאפ או בחברה גדולה?](http://notarbut.co/ep92-money2/)
 
 ### Lectures
-* [Lets Talk About Your Salary (Iftach Bar) - Hebrew ](https://youtu.be/pzq37L4UBUU)
-* [We Talked About Your Salary, Now Let's Talk About Your Career (Iftach Bar) - Hebrew ](https://youtu.be/TspN1NLcabM)
+#### Javscript
 * [Functional Programming in Javascript (FunFunFunction)](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 * [What the heck is the Event Loop? (Philip  Roberts)](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t) 
+
+#### Career
+* [Lets Talk About Your Salary (Iftach Bar) - Hebrew ](https://youtu.be/pzq37L4UBUU)
+* [We Talked About Your Salary, Now Let's Talk About Your Career (Iftach Bar) - Hebrew ](https://youtu.be/TspN1NLcabM)
 
 ## Tools
 Train your techincal skills using those tools
@@ -71,12 +74,25 @@ resources will be added soon :)
 * common runtimes
 * recursive runtimes (master theorem)
 
+### Javascript
+* var vs let vs const
+* use strict
+* IFEEs
+* event loop (libuv, v8)
+* clousre
+* async programming (callbacks, promises, async-await)
+* classical inheritance and prototypal inheritance
+* functional programming with javascript
+* RESTful APIs
 
 #### Data Sturctures
 * Arrays and string
 * Linked Lists
 * Stacks and Queue
 * Trees and Graphs
+
+#### General CS
+* sort methods and their runtimes
 
 #### System Design
 * [grokking the system design interview](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR)
