@@ -1,5 +1,7 @@
 # interview-prep
 
+Feel free to add you own resources :)
+
 ## General Reading Materials
 
 ### Github Repos
@@ -61,12 +63,34 @@ Train your techincal skills using those tools
 
 
 ### Topics
+resources will be added soon :)
+
 #### Time Complexity
+* Big O, Big Theta, Big Omega
+* space complexity
+* common runtimes
+* recursive runtimes (master theorem)
+
+
 #### Data Sturctures
+* Arrays and string
+* Linked Lists
+* Stacks and Queue
+* Trees and Graphs
+
 #### System Design
 * [grokking the system design interview](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR)
 * [Gaurav Sen on Youtube](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
-
+##### subtopics
+* horizontal vs vertical sacling
+* load balancing
+* SQL vs noSQL databases
+* database partitaioning (sharding) - vertical, key-based,  directory-based 
+* microservices vs monolith
+* message queue (kafka vs rabbitmq)
+* caching (and redis usage)
+* async processing
+* networking
 
 ## HR interview
 ### Questions Banks
