@@ -34,7 +34,9 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 * [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ### Podcasts
-
+* [עושים תוכנה - הסודות הכמוסים של המראיינים בעולם התוכנה](https://www.ranlevi.com/2019/08/06/osim_software_react_technical_interviews/)
+* [מפתחים חסרי תרבות - פרק 90 - איזה אופציות יש לכם?](http://notarbut.co/ep90-options/)
+* [מפתחים חסרי תרבות - פרק 92 - איפה מרוויחים יותר? בסטראטאפ או בחברה גדולה?](http://notarbut.co/ep92-money2/)
 
 ### Lectures
 * [Lets Talk About Your Salary (Iftach Bar) - Hebrew ](https://youtu.be/pzq37L4UBUU)
@@ -55,7 +57,7 @@ Train your techincal skills using those tools
 #### Javascript
 * [toptal interview questions](https://www.toptal.com/javascript/interview-questions)
 * [10 interview questions every javascript developer should know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
-*
+
 
 ### Topics
 #### Time Complexity
