@@ -43,6 +43,7 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 * [We Talked About Your Salary, Now Let's Talk About Your Career (Iftach Bar) - Hebrew ](https://youtu.be/TspN1NLcabM)
 * [Functional Programming in Javascript (FunFunFunction)](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 * [What the heck is the Event Loop? (Philip  Roberts)](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t) 
+
 ## Tools
 Train your techincal skills using those tools
 * [InterviewBit](https://www.interviewbit.com/courses/programming/)
@@ -63,6 +64,9 @@ Train your techincal skills using those tools
 #### Time Complexity
 #### Data Sturctures
 #### System Design
+* [grokking the system design interview](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR)
+* [Gaurav Sen on Youtube](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+
 
 ## HR interview
 ### Questions Banks
