@@ -76,7 +76,7 @@ resources will be added soon :)
 
 ### Javascript
 (deeper explanations about each topic will be updated soon)
-* (var vs let vs const)[variables.md]
+* [var vs let vs const](variables.md)
 * use strict
 * IFEEs
 * event loop (libuv, v8)
