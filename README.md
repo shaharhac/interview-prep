@@ -12,7 +12,7 @@ Those repos contains useful links and guides for the  entire interview process.
 ### Articles and Papers
 
 * General
-
+    * [כך קיבלתי חמש (וחצי) הצעות עבודה מעולות – בלי להיות נינג'ה, תותח או תמסח](https://algoritmim.co.il/2019/10/23/how-i-got-five-job-offers-without-being-a-ninja/)
 * Javascript
     * [The Two Pillars of JavaScript - Part 1](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
     * [The Two Pillars of JavaScript - Part 2](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
