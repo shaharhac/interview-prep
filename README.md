@@ -48,10 +48,21 @@ Those repos contains useful links and guides for the  entire interview process.
     * [Lets Talk About Your Salary (Iftach Bar) - Hebrew ](https://youtu.be/pzq37L4UBUU)
     * [We Talked About Your Salary, Now Let's Talk About Your Career (Iftach Bar) - Hebrew ](https://youtu.be/TspN1NLcabM)
 
+### Free Courses
+* [Algorithms, Part 1 [Coursera]](https://www.coursera.org/learn/algorithms-part1)
+* [Algorithms, Part 2 [Coursera]](https://www.coursera.org/learn/algorithms-part2)
+* [Intro to Algorithms [Udacity]](https://www.udacity.com/course/intro-to-algorithms--cs215)
+* [Introduction to Algorithms [MIT Open courseware]](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/)
+
 ## Tools
-Train your techincal skills using those tools
+Practice your techincal skills using those tools
 * [InterviewBit](https://www.interviewbit.com/courses/programming/)
 * [TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/)
+* [HackerRank](https://www.hackerrank.com/)
+* [LeetCode](https://www.hackerrank.com/)
+* [InterviewCake](https://www.interviewcake.com/)
+* [Kattis](https://open.kattis.com/)
+* [Pramp](https://www.pramp.com/#/)
 
 ## Technical Interview
 
