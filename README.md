@@ -132,6 +132,7 @@ resources will be added soon :)
 
 ## HR interview
 ### Questions Banks
+* [Common Behavioral Questions](https://yangshun.github.io/tech-interview-handbook/behavioral-questions/)
 * [7 שאלות מכשילות בראיונות עבודה](https://bit.ly/35LmdcE)
 * [איך עוברים ראיון משאבי אנוש](https://www.dialog.co.il/new-world/work-search/blogs/hr-interview-part-1/)
 * [7 שאלות לראיונות עבודה](https://bit.ly/2YR9TGb)
