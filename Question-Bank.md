@@ -15,7 +15,7 @@ for (var i = 0; i < 3; i++) {
 <details>
 <summary>Answer</summary>
 
-this questions is about: [Closures](closures.md), [IIFEs](IIFE.md) 
+this questions is about: [Closures](../JavaScript/closures.md), [IIFEs](../JavaScript/IIFE.md) 
 
 The goal of the code above is to alert the numbers 0, 1, and 2 each after 1, 1.1, and 1.2 seconds, respectively. The problem though, is that if you run the above code in your console, you actually get the number 3 alerted 3 times after 1, 1.1, and 1.2 seconds.
 
