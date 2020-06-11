@@ -91,7 +91,7 @@ resources will be added soon :)
 * [use strict](strict-mode.md)
 * IFEEs
 * event loop (libuv, v8)
-* clousre
+* [clousre](clousres.md)
 * async programming (callbacks, promises, async-await)
 * classical inheritance and prototypal inheritance
 * functional programming with javascript
