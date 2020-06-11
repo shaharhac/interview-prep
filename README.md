@@ -89,7 +89,7 @@ resources will be added soon :)
 (deeper explanations about each topic will be updated soon)
 * [var vs let vs const](variables.md)
 * [use strict](strict-mode.md)
-* IFEEs
+* [IFEEs](IFFE.md)
 * event loop (libuv, v8)
 * [closures](closures.md)
 * async programming (callbacks, promises, async-await)
