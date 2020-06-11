@@ -15,7 +15,7 @@ for (var i = 0; i < 3; i++) {
 <details>
 <summary>Answer</summary>
 
-this questions is about: [Closures](https://github.com/shaharhac/interview-prep/blob/master/JavaScript/closures.md), [IIFEs](https://github.com/shaharhac/interview-prep/blob/master/JavaScript/IIFE.md) 
+this question is about: [Closures](https://github.com/shaharhac/interview-prep/blob/master/JavaScript/closures.md), [IIFEs](https://github.com/shaharhac/interview-prep/blob/master/JavaScript/IIFE.md) 
 
 The goal of the code above is to alert the numbers 0, 1, and 2 each after 1, 1.1, and 1.2 seconds, respectively. The problem though, is that if you run the above code in your console, you actually get the number 3 alerted 3 times after 1, 1.1, and 1.2 seconds.
 
@@ -51,3 +51,98 @@ We pass the variable i into the outer function as a local variable named i_local
 </details>
 
 </details>
+
+
+<details>
+<summary>Question 2</summary>
+  
+Write a function that would allow you to do this.
+```
+ var addSix = createBase(6);
+addSix(10); // returns 16
+addSix(21); // returns 27
+```
+
+<details>
+<summary>Answer</summary>
+  
+this question is about: [Closures](https://github.com/shaharhac/interview-prep/blob/master/JavaScript/closures.md)
+
+You can create a closure to keep the value passed to the function createBase even after the inner function is returned. The inner function that is being returned is created within an outer function, making it a closure, and it has access to the variables within the outer function, in this case the variable baseNumber.
+
+```
+function createBase(baseNumber) {
+  return function(N) {
+    // we are referencing baseNumber here even though it was declared
+    // outside of this function. Closures allow us to do this in JavaScript
+    return baseNumber + N;
+  }
+}
+
+var addSix = createBase(6);
+addSix(10);
+addSix(21);
+```
+
+</details>
+</details>
+
+<details>
+<summary>Question 3</summary>
+  
+How would you use a closure to create a private counter?
+
+<details>
+<summary>Answer</summary>
+  
+this question is about: [Closures](https://github.com/shaharhac/interview-prep/blob/master/JavaScript/closures.md)
+
+You can create a function within an outer function (a closure) that allows you to update a private variable but the variable wouldn't be accessible from outside the function without the use of a helper function.
+
+```
+function counter() {
+  var _counter = 0;
+  // return an object with several functions that allow you
+  // to modify the private _counter variable
+  return {
+    add: function(increment) { _counter += increment; },
+    retrieve: function() { return 'The counter is currently at: ' + _counter; }
+  }
+}
+
+// error if we try to access the private variable like below
+// _counter;
+
+// usage of our counter function
+var c = counter();
+c.add(5); 
+c.add(9); 
+
+// now we can access the private variable in the following way
+c.retrieve(); // => The counter is currently at: 14
+```
+
+</details>
+</details>
+
+<details>
+<summary>Question 4</summary>
+  
+What do the following lines output, and why?
+
+```
+console.log(1 < 2 < 3);
+console.log(3 > 2 > 1);
+```
+
+<details>
+<summary>Answer</summary>
+  
+The first statement returns true which is as expected.
+
+The second returns false because of how the engine works regarding operator associativity for < and >. It compares left to right, so 3 > 2 > 1 JavaScript translates to true > 1. true has value 1, so it then compares 1 > 1, which is false.
+
+</details>
+</details>
+
+
