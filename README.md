@@ -90,7 +90,7 @@ resources will be added soon :)
 * [var vs let vs const](JavaScript/variables.md)
 * [use strict](JavaScript/strict-mode.md)
 * [IIFEs](JavaScript/IIFE.md)
-* event loop (libuv, v8)
+* [event loop (libuv, v8)](JavaScript/event-loop.md)
 * [closures](JavaScript/closures.md)
 * async programming (callbacks, promises, async-await)
 * classical inheritance and prototypal inheritance
