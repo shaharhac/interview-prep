@@ -102,6 +102,26 @@ This function schedules a callback function which is required to be invoked in t
 </details>
 
 
+recources:
+* https://www.youtube.com/watch?v=cCOL7MC4Pl0
+* https://www.youtube.com/watch?v=8aGhZQkoFbQ
+* https://medium.com/front-end-weekly/javascript-event-loop-explained-4cd26af121d4
+* https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5
+* https://blog.insiderattack.net/event-loop-and-the-big-picture-nodejs-event-loop-part-1-1cb67a182810
+* https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/
+* http://docs.libuv.org/en/v1.x/design.html
+* https://www.youtube.com/watch?v=sGTRmPiXD4Y
+* https://gist.github.com/andreybolonin/2413da76f088e2c5ab04df53f07659ea
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop
+* https://javascript.info/event-loop
+* https://levelup.gitconnected.com/what-is-an-event-loop-69e1581ecdcc
+* https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5
+* https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf
+* https://github.com/atotic/event-loop
+* https://stackoverflow.com/questions/31582672/what-is-the-different-between-javascript-event-loop-and-node-js-event-loop
+* http://anupbishnoi.com/2017/difference-between-setTimeout-setInterval-requestAnimationFrame/
+
+## The Event Loop
 
 the **Event Loop** is used by JavaScript to execute code, collect and process events, and executing queued sub-tasks.
 
