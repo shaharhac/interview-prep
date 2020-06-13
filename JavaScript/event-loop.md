@@ -1,3 +1,6 @@
+
+try to answer the questions below first, then read the rest of the page
+
 <details>
 <summary>What is the event loop?</summary>
 
