@@ -145,4 +145,45 @@ The second returns false because of how the engine works regarding operator asso
 </details>
 </details>
 
-
+<details>
+  <summary>Question 5</summary>
+  
+  What will be printed to the console?
+  
+  ```jsx
+  function foo() {
+   var a = 1;
+   const b = 2;
+   let c = 3;
+ 
+   if (b < 10) {
+      var a = 10;
+      const b = 11;
+      let c = 12;
+ 
+      console.log(a, b, c);
+   }
+ 
+   console.log(a, b, c);
+ 
+   console.log(d, e);
+ 
+   var d = 4;
+   const e = 5;
+}
+ 
+foo();
+  ```
+  
+  <details>
+  <summary>Answer</summary>
+  
+  this question is about: [Variables](https://github.com/shaharhac/interview-prep/blob/master/JavaScript/variables.md), 
+  
+  ```
+  10 11 12
+  10 2 3
+  Uncaught ReferenceError: e is not defined
+  ```
+  </details>
+</details>
