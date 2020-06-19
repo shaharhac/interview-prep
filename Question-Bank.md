@@ -187,3 +187,74 @@ foo();
   ```
   </details>
 </details>
+
+<details>
+  <summary>Question 6</summary>
+  
+  What’s the difference between `bind()`, `call()`, and `apply()`?
+  <details>
+    <summary>Answer</summary>
+  
+  #### bind
+  The `bind()` method creates a new function that, when called, has its `this` keyword set to the provided value, with a given sequence of arguments preceding any provided when the new function is called.
+  
+    
+  for example:
+  ```jsx
+  const module = {
+  x: 42,
+  getX: function() {
+    return this.x;
+  }
+};
+
+const unboundGetX = module.getX;
+console.log(unboundGetX()); // The function gets invoked at the global scope
+// expected output: undefined
+
+const boundGetX = unboundGetX.bind(module);
+console.log(boundGetX());
+// expected output: 42
+
+  ```
+  
+  
+  The `apply()` method is identical to `call()`, except `apply()` requires an array as the second parameter. The array represents the arguments for the target method.
+  #### call
+  The `call()` method calls a function with a given this value and arguments provided individually.
+  
+  ```jsx
+  function Product(name, price) {
+  this.name = name;
+  this.price = price;
+}
+
+function Food(name, price) {
+  Product.call(this, name, price);
+  this.category = 'food';
+}
+
+console.log(new Food('cheese', 5).name);
+// expected output: "cheese"
+
+  ```
+  
+  #### apply
+  The `apply()` method calls a function with a given this value, and arguments provided as an array
+  
+  ```jsx
+  const numbers = [5, 6, 2, 3, 7];
+
+const max = Math.max.apply(null, numbers);
+
+console.log(max);
+// expected output: 7
+
+const min = Math.min.apply(null, numbers);
+
+console.log(min);
+// expected output: 2
+
+  ```
+  </details>
+</details>
