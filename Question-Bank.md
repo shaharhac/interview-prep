@@ -258,3 +258,38 @@ console.log(min);
   ```
   </details>
 </details>
+<summary>Question 7</summary>
+
+Explain what pure functions are and some of their advantages.
+<details>
+<summary>Answer</summary>
+
+In simple terms, a pure function is a function where the return value is only determined by its input values and that doesn’t have side effects such as the mutation of an object. This means that the function always returns the same result given the same arguments and that it doesn’t depend on a given application state that may change while the software is executed.
+
+An example of a pure function is the test() function reported below. It declares two parameters, an array of numbers (array) and a number (max). The function returns true if the sum of the numbers of the array is less than the number; false otherwise.
+
+```jsx
+function test(array, max) {
+   const sum = array.reduce((partial, number) => partial + number);
+   return sum < max;
+}
+```
+
+As you can see, the returned value of the test() function is only calculated on the basis of the provided arguments. Other examples of pure functions can be found in the JavaScript language itself. Some examples are Math.sin(), Math.max(), and Number.parseInt().
+
+To give you a better understanding of what pure functions are, let’s see an example of an impure function:
+
+```jsx
+function sumRandom(number) {
+   return Math.random() + number;
+}
+```
+
+The `sumRandom()` function defined above is impure because its returned value depends on the random number calculated inside the function. So, even if we pass the same argument, at every call of the function the result will be different.
+
+The main advantage of pure functions is their testability. Because the return value depends on arguments provided only, you don’t have to assume or mock any state of your software and you can focus on arguments and return values. Pure functions help you in writing predictable and deterministic code, which is easier to test.
+
+Another advantage is that pure functions can be executed in parallel because they don’t have side effects, thus there is no chance they conflict with each other. Pure functions are also usually easier to understand and reuse because they don’t depend on a given state of the system nor they change the state of the application. Finally, results of pure functions can be cached for future reuse because the same input always yields the same output.
+
+</details>
+</details>
