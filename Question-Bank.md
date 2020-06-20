@@ -258,6 +258,8 @@ console.log(min);
   ```
   </details>
 </details>
+
+<details>
 <summary>Question 7</summary>
 
 Explain what pure functions are and some of their advantages.
