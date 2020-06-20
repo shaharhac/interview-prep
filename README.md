@@ -30,14 +30,12 @@ Those repos contains useful links and guides for the  entire interview process.
 resources will be added soon :)
 
 #### Time Complexity
-(deeper explanations about each topic will be updated soon)
 * Big O, Big Theta, Big Omega
 * space complexity
 * common runtimes
 * recursive runtimes (master theorem)
 
 ### Javascript
-(deeper explanations about each topic will be updated soon)
 * [var vs let vs const](JavaScript/variables.md)
 * [use strict](JavaScript/strict-mode.md)
 * [IIFEs](JavaScript/IIFE.md)
@@ -49,7 +47,6 @@ resources will be added soon :)
 * RESTful APIs
 
 #### Data Sturctures
-(deeper explanations about each topic will be updated soon)
 * Arrays and string
 * Linked Lists
 * Stacks and Queue
@@ -70,7 +67,6 @@ resources will be added soon :)
 * [Blog post about system design](https://orrsella.com/2016/05/28/preparing-for-a-system-architecture-interview/?fbclid=IwAR2ujOLNCLkbsu21L5KFV3y4nL-iFDSwMiJB-cgCqXSJ8NlhJC4l08EVGcA)
 * Cracking the code interview - pages 137-145
 ##### subtopics:
-(deeper explanations about each topic will be updated soon)
 * horizontal vs vertical sacling
 * load balancing
 * SQL vs noSQL databases
