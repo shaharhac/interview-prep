@@ -27,13 +27,6 @@ Those repos contains useful links and guides for the  entire interview process.
 
 
 ### Topics
-resources will be added soon :)
-
-#### Time Complexity
-* Big O, Big Theta, Big Omega
-* space complexity
-* common runtimes
-* recursive runtimes (master theorem)
 
 ### Javascript
 * [var vs let vs const](JavaScript/variables.md)
@@ -46,14 +39,13 @@ resources will be added soon :)
 * functional programming with javascript
 * RESTful APIs
 
-#### Data Sturctures
+#### Computer Science 
+* Time Complexity
+* Sorting Methods
 * Arrays and string
 * Linked Lists
-* Stacks and Queue
+* Stacks and Queues
 * Trees and Graphs
-
-#### General CS
-* sort methods and their runtimes
 
 #### System Design
 ##### resources:
