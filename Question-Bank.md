@@ -295,3 +295,34 @@ Another advantage is that pure functions can be executed in parallel because the
 
 </details>
 </details>
+
+
+### Computer Science Questions
+
+<details>
+  <summary>Question 1</summary>
+  
+  Implement an algorithm to determine if a string has all unique characters. You can not use any additonal data structures.
+  Try to solve this question with better runtime than O(n^2) (naive solution)
+  
+  <details>
+    <summary>Answer</summary>
+    
+```jsx
+const hasUniqueCharacters = (string) => {
+sortedChars = string.split("").sort();
+
+for(const [index, letter] of sortedChars.entries()) {
+  console.log(index, letter);
+  if(sortedChars[index + 1] && letter === sortedChars[index + 1]) {
+    return false;
+  }
+}
+
+return true;
+}
+```
+    
+runtime of this function is O(n log n).
+  </details>
+</details>
