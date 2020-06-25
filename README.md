@@ -75,3 +75,4 @@ Those repos contains useful links and guides for the  entire interview process.
 * [7 שאלות מכשילות בראיונות עבודה](https://bit.ly/35LmdcE)
 * [איך עוברים ראיון משאבי אנוש](https://www.dialog.co.il/new-world/work-search/blogs/hr-interview-part-1/)
 * [7 שאלות לראיונות עבודה](https://bit.ly/2YR9TGb)
+* [Linkedin's interview prepration feature](https://www.linkedin.com/interview-prep/assessments/urn:li:fs_assessment:(1,a)/question/urn:li:fs_assessmentQuestion:(10011,aq11)/)
