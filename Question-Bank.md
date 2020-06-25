@@ -313,7 +313,6 @@ const hasUniqueCharacters = (string) => {
 sortedChars = string.split("").sort();
 
 for(const [index, letter] of sortedChars.entries()) {
-  console.log(index, letter);
   if(sortedChars[index + 1] && letter === sortedChars[index + 1]) {
     return false;
   }
