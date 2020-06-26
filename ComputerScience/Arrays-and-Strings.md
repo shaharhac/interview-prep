@@ -153,6 +153,49 @@ const oneWay = (str1, str2) => {
   </details>
 </details>
 
+
+<details>
+  <summary>Question 4</summary>
+  
+  String Rotation:Assumeyou have a method isSubstringwhich checks if oneword is a substring
+of another. Given two strings, sl and s2, write code to check if s2 is a rotation of sl using only one
+call to isSubstring (e.g., "waterbottle" is a rotation of "erbottlewat"). 
+
+(If a string is a rotation of another, then it's a rotation at a particular point. For example,
+a rotation of waterbottle at character 3 means cutting waterbottle at character 3
+and putting the right half (erbottle) before the left half (wat))
+
+  <details>
+  <summary>Answer</summary>
+  
+  If a s2 is a rotation of s1, it means what there is a pivot point at s1, which divides to string to two. let's call them ***x*** and ***y***.
+  if the left half of s1 is "wat", and the right one is "erbottle", we can denote it like this:
+  <br>  `s1 = waterbottle = xy`
+  <br> and s2 will be:
+  <br> `s2 = erbottlewat = yx`
+  
+  <br> if we concatinate s2 to itself, we'll get:
+  <br>  `s2s2 = erbottlewaterbottlewat = yxyx`
+  
+  and we can see that:
+  <br>  `xy ⊆ yxyx`
+  
+  
+  ```jsx
+  // mimic `isSubstring` in JS
+  const isSubstring = (string, subString) => {
+  return string.includes(subString)
+}
+
+const isRotation = (s1, s2) => {
+  return isSubstring((s2 + s2), s1)
+}
+  ```
+  
+  Runtime complexity of this algorithm is `O(n)`.
+  </details>
+</details>
+
 arrays and strings are fairly straightgforward, so there is no need to elborate on this.
 having said that, arrays and strings interview questions often aren't that simple. you should be familiar with some concepts that will improve you code runtime complexity.
 
