@@ -42,8 +42,8 @@ Those repos contains useful links and guides for the  entire interview process.
 #### Computer Science 
 * [Time Complexity](ComputerScience/Time-Complexity.md)
 * Sorting Methods
-* Arrays and string
-* Linked Lists
+* [Arrays and string](ComputerScience/Arrays-and-Strings.md)
+* [Linked Lists](ComputerScience/Linked-lists.md)
 * Stacks and Queues
 * Trees and Graphs
 
