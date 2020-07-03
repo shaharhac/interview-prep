@@ -60,7 +60,7 @@ Those repos contains useful links and guides for the  entire interview process.
 * Cracking the code interview - pages 137-145
 ##### subtopics:
 * [horizontal vs vertical sacling](SystemDesign/Scaling.md)
-* load balancing
+* [load balancing](SystemDesign/Load-Balancing.md)
 * SQL vs noSQL databases
 * database partitaioning (sharding) - vertical, key-based,  directory-based 
 * microservices vs monolith
