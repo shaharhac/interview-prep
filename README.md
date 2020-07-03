@@ -59,7 +59,7 @@ Those repos contains useful links and guides for the  entire interview process.
 * [Blog post about system design](https://orrsella.com/2016/05/28/preparing-for-a-system-architecture-interview/?fbclid=IwAR2ujOLNCLkbsu21L5KFV3y4nL-iFDSwMiJB-cgCqXSJ8NlhJC4l08EVGcA)
 * Cracking the code interview - pages 137-145
 ##### subtopics:
-* horizontal vs vertical sacling
+* [horizontal vs vertical sacling](SystemDesign/Scaling.md)
 * load balancing
 * SQL vs noSQL databases
 * database partitaioning (sharding) - vertical, key-based,  directory-based 
