@@ -1,8 +1,8 @@
 # Horizontal vs. Vertical Scaling
 
-a System cab be scaled one of two ways.
-*** Vertical Scaling *** means increasing the resources of a specific node, For example, you might add additional memory to a server to improve its abillty to habndle load changes.
-*** Horizonyal Scaling ***means increasing the number of nodes. For example, you might add additional servers, thus decreasing the load on any one server.
+a System can be scaled one of two ways.
+***Vertical scaling*** means increasing the resources of a specific node. For example, you might add additional memory to a server to improve its abillty to handle load changes.
+***Horizontal scaling*** means increasing the number of nodes. For example, you might add additional servers, thus decreasing the load on any one server.
 
 Vertical scaling is generally easier than horizontal scaling, but it's limited. you can only add so much memory or disk space.
 
