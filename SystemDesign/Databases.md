@@ -1,4 +1,4 @@
-# SQL or NoSQL - WIP
+# SQL or NoSQL
 
 Retional data model - Highly-structured table organization with rigidly-defined data formats and recoed structure.
 Document data model - collection of complex documents with arbitrary nested data formats and varying "record" format.
@@ -39,7 +39,11 @@ documents from the second collection and manually link the two in our program lo
 ## Data Integrity
 
 Most SQL databases allow you to enfore data integrity rules using foreign key constraints.
-for example - your can unsure that every book will have an `author_id` code that 
+for example - your can unsure that every book will have an `author_id` code that matches one entry in the `authors` table.
+
+The schema enforces these rules for the database to follow. It's impossible for developers or users to add, edit or remove records, which could result in invalid data or orphan records.
+
+The same data intergrity options are not available in noSQL databases. You can store what you want regardless of any other documents. Ideally, a single document will be the sole source of all information about an item.
 
 ## Transactions
 
@@ -67,6 +71,12 @@ NoSQL is regularly quoted as being faster than SQL.
 Having said that, your project design and data requirements have a huge role.  A well-designed SQL database will almost certainly perform better than a badly designed NoSQL equivalent and vice versa.
 
 ## Scaling
+
+Most SQL databases are vertically scalable, which means that you can increase the load on single server by increasing components like RAM, SSD or CPU.
+In Contrast, NoSQL databases are horizontally scalable, which means that they can increased traffic simply by adding more servers to the database. NOSQL databases have the ability to become larger and much more powerful, making them the preferred choice for large or constantly evolving data sets.
+
+NoSQL databases give up a massive amount of functionality that a SQL database gives us by it's very nature.
+Things like automatic enforcment of referential intergrity, transactions, etc. These all things that are very handy to have for some problems, and which require some unique techniques to scale outside of a single server (what happens if we need to lock two tables for an atomic transaction, and they are on different servers?)
 
 ## Knowledge & Community
 
