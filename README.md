@@ -2,6 +2,12 @@
 
 Feel free to add you own resources :)
 
+### Questions
+
+This is an interview questions bank, which i keep on filling every time i see a worthy question in my study sessions.
+Please enter your questions as well, so we could all have a variety of questions to practice from.
+[Question Bank](Question-Bank.md)
+
 ### Github Repos
 Those repos contains useful links and guides for the  entire interview process.
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
