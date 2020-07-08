@@ -22,4 +22,4 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
    
 * [How To Rock a System Design Interview](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
 * [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
-* [8 things you need to know before system design interviews](http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/)8
+* [8 things you need to know before system design interviews](http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/)
