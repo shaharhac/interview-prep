@@ -69,7 +69,7 @@ Those repos contains useful links and guides for the  entire interview process.
 * [horizontal vs vertical sacling](SystemDesign/Scaling.md)
 * [load balancing](SystemDesign/Load-Balancing.md)
 * [SQL vs noSQL databases](SystemDesign/Databases.md)
-* database partitaioning (sharding) - vertical, key-based,  directory-based 
+* [database partitaioning](SystemDesign/Sharding.md)
 * microservices vs monolith
 * message queue (kafka vs rabbitmq)
 * caching (and redis usage)
