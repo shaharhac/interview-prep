@@ -61,6 +61,7 @@ Recommended [Resources](SystemDesign/Resources.md) for learning and practicing s
 * [horizontal vs vertical sacling](SystemDesign/Scaling.md)
 * [load balancing](SystemDesign/Load-Balancing.md)
 * [SQL vs noSQL databases](SystemDesign/Databases.md)
+* [CAP Theorem](SystemDesign/cap-theorem.md)
 * [database partitaioning - WIP](SystemDesign/Sharding.md)
 * [microservices vs monolith - WIP](SystemDesign/Microservices.md)
 * message queue (kafka vs rabbitmq)
