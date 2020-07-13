@@ -67,6 +67,7 @@ Recommended [Resources](SystemDesign/Resources.md) for learning and practicing s
 * caching (and redis usage)
 * async processing
 * networking
+* [master-slave architecture](SystemDesign/master-slave.md)
 
 ## HR interview
 ### Questions Banks
