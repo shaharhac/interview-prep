@@ -65,7 +65,7 @@ Recommended [Resources](SystemDesign/Resources.md) for learning and practicing s
 * [database partitaioning - WIP](SystemDesign/Sharding.md)
 * [microservices vs monolith - WIP](SystemDesign/Microservices.md)
 * message queue (kafka vs rabbitmq)
-* caching (and redis usage)
+* [caching](SystemDesign/Caching.md)
 * async processing
 * networking
 * [master-slave architecture](SystemDesign/master-slave.md)
