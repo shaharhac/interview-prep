@@ -33,7 +33,6 @@ There are three main schemas to solve the invalid cache problem:
 
 1. ***Write-through cache*** - Under this scheme, data is written into the cache and the corresponsing database at the same time, The cache data allows for fast retrieval and,
 since the same data gets written in the permanent storagem we will have complete data consistency between the cache and the storage, Aksi this scheme ensures tha tnothing will get lost in case of a crash, power failure and so on.
-
 On the other side, since every write operation must be done twice before returning success to the client, this scheme has the disadvantage of higher latency for write operations.
 
 2. ***Write-around cache*** - This technique is similar to write trhough cache, but data is written directly to permanent storage, bypassing the cache. This can reduce the cache being flooded with write operations that will not subsequently be re-read, but has the disadvantage that a read request for recently written data will create a "cache miss"
