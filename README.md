@@ -64,7 +64,7 @@ Recommended [Resources](SystemDesign/Resources.md) for learning and practicing s
 * [CAP Theorem](SystemDesign/cap-theorem.md)
 * [database partitaioning - WIP](SystemDesign/Sharding.md)
 * [microservices vs monolith - WIP](SystemDesign/Microservices.md)
-* message queue (kafka vs rabbitmq)
+* [message queue](SystemDesign/Message-Queue.md)
 * [caching](SystemDesign/Caching.md)
 * async processing
 * networking
