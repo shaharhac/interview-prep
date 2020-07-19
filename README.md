@@ -51,7 +51,7 @@ Those repos contains useful links and guides for the  entire interview process.
 * [Sorting Methods - WIP](ComputerScience/Sorting-Methods.md)
 * [Arrays and string](ComputerScience/Arrays-and-Strings.md)
 * [Linked Lists](ComputerScience/Linked-lists.md)
-* Stacks and Queues
+* [Stacks and Queues](ComputerScience/Stacks-and-Queues.md)
 * Trees and Graphs
 
 #### System Design
