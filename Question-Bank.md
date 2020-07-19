@@ -296,6 +296,42 @@ Another advantage is that pure functions can be executed in parallel because the
 </details>
 </details>
 
+<details>
+  <summary>Question 8</summary>
+  
+  <details> What is generator in JS? </details>
+  
+<details>
+  <summary>Answer</summary>
+  
+  Generator are functions which can be exited and later re-entered. Their context (variable bindings) will be saved across re-entances. Generator functions are written using the 
+  `function*` syntax. When called initially, generator functions do not executes any of their code, instead returning a type of iterator called a Generator. When a calue is consumed by calling the generator's `next` method, the Generator function executes until it encounters the `yield` keyword.
+  
+  The function can be called as many times as desired and returns a new Generator each time, however each Generator may only be itrated once.
+  
+  #### Example:
+  
+  A function that that generate unique identifiers
+  
+  ```jsx
+  function * idCreator() {
+  let i = 0;
+  while (true) yield i++;
+}
+
+const ids = idCreator();
+
+console.log(ids.next().value); // 0
+console.log(ids.next().value); // 1
+console.log(ids.next().value); // 2
+  ```
+  
+  
+  
+</details>
+  
+</details>
+
 
 ### Computer Science Questions
 
