@@ -39,7 +39,7 @@ class Stack {
 
 </details>
 
-# Queue
+## Queue
 
 A Queue is a linear structur which follow a particular order in which the operations are performed. The order is First in First OUt (FIFO).
 a Goode example of a queue is any queue of consumers for a resource where the consumer that came first is served first.
