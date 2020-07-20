@@ -74,9 +74,11 @@ Post-order traversal visits the current node after its child nodes (hence the na
 in a post-order traversal, the root is alwats the last node visited.
 
 
-### Binary Heaps (Min Heaps and Max Heaps)
+## Binary Heaps (Min Heaps and Max Heaps)
 
 We'll just discuss min-heaps here. Max-heaps are essentially equivalent, but the elemnts are in descending order rather than ascending order.
 
 A min-Heap is ***complete*** binary tree (that is, totally filled other than the rightmost elemnts on the last level) which each node is smaller than its children.
 The root, therefore, is the minimum element in the tree.
+
+![Min Heap](https://camo.githubusercontent.com/c8a60ba2f777cfcd853df066ed0b822fe101cfd2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f352f35632f42696e6172792d686561702e706e67)
