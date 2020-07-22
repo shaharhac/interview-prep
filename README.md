@@ -70,6 +70,7 @@ Recommended [Resources](SystemDesign/Resources.md) for learning and practicing s
 * async processing
 * networking
 * [master-slave architecture](SystemDesign/master-slave.md)
+* [consistent hashing - WIP](SystemDesign/consistent-hashing.md)
 
 ## HR interview
 ### Questions Banks
