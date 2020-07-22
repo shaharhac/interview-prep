@@ -67,8 +67,6 @@ Recommended [Resources](SystemDesign/Resources.md) for learning and practicing s
 * [microservices vs monolith - WIP](SystemDesign/Microservices.md)
 * [message queue](SystemDesign/Message-Queue.md)
 * [caching](SystemDesign/Caching.md)
-* async processing
-* networking
 * [master-slave architecture](SystemDesign/master-slave.md)
 * [consistent hashing - WIP](SystemDesign/consistent-hashing.md)
 
