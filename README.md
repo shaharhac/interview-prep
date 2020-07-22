@@ -53,7 +53,7 @@ Those repos contains useful links and guides for the  entire interview process.
 * [Linked Lists](ComputerScience/Linked-lists.md)
 * [Stacks and Queues](ComputerScience/Stacks-and-Queues.md)
 * [Trees](ComputerScience/Trees.md)
-* [Graphs](ComputerScience/Graphs.md)
+* [Graphs - WIP](ComputerScience/Graphs.md)
 
 #### System Design
 
