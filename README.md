@@ -46,6 +46,9 @@ Those repos contains useful links and guides for the  entire interview process.
 * functional programming with javascript
 * RESTful APIs
 
+### Docker - WIP
+*
+
 #### Computer Science 
 * [Time Complexity](ComputerScience/Time-Complexity.md)
 * [Sorting Methods - WIP](ComputerScience/Sorting-Methods.md)
