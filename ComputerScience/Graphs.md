@@ -25,11 +25,14 @@ We start at the root (or any other node) and explore each branch completely befo
 
 DFS is often preferred if we want to visit every node in the graph.
 
+***Algorithm:***
+
 ### Breadth-First Search
 
 We start at the root (or any other node) and explore each neighbor before going on to any of their children. That is, we go wide first (hence the name) before we go deep.
 
 BDS is often preferred if we want to find the shortest path (or a path) between two nodes.
 
+***Algorithm:***
 
 ### Bidirectional Search 
