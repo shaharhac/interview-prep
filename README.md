@@ -72,6 +72,8 @@ Recommended [Resources](SystemDesign/Resources.md) for learning and practicing s
 * [caching](SystemDesign/Caching.md)
 * [master-slave architecture](SystemDesign/master-slave.md)
 * [consistent hashing - WIP](SystemDesign/consistent-hashing.md)
+* [ZooKeeper](SystemDesign/ZooKeeper.md)
+* [cdn](SystemDesign/cdn.md)
 
 ## HR interview
 ### Questions Banks
