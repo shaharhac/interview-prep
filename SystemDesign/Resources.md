@@ -1,5 +1,6 @@
 ## Resources for System Design
 
+* [Introduction for system design](https://www.youtube.com/watch?v=UzLMhqg3_Wc)
 * [grokking the system design interview](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR)
 * [Gaurav Sen on Youtube](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 * [System design interview on Youtube](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ?fbclid=IwAR3qP2ZxL-WQCMQBMQkOaQTWUMLSL7pEPmpu3TTWTVp3wPM_iFOrUoRfKWk&app=desktop)
