@@ -23,7 +23,9 @@ There are two common ways to search a graph: deapth-first search (***DFS***) and
 
 We start at the root (or any other node) and explore each branch completely before moving on to the next branch. That is, we go deep first (hence the name) before we go wide.
 
-DFS is often preferred if we want to visit every node in the graph.
+By itself the DFS isn't all that usful, but when augmented to perform other tasks such as count connected components, deterimne connectivity, or find bridges/articulation points, then DFS really shines.
+
+***Time Complexity:*** `O(V + E)`
 
 ***Algorithm:***
 
