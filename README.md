@@ -57,23 +57,24 @@ Those repos contains useful links and guides for the  entire interview process.
 * [Stacks and Queues](ComputerScience/Stacks-and-Queues.md)
 * [Trees](ComputerScience/Trees.md)
 * [Graphs - WIP](ComputerScience/Graphs.md)
+* [Trie](ComputerScience/Trie.md)
 
 #### System Design
 
 Recommended [Resources](SystemDesign/Resources.md) for learning and practicing system design.
 
-* [horizontal vs vertical sacling](SystemDesign/Scaling.md)
-* [load balancing](SystemDesign/Load-Balancing.md)
+* [Horizontal vs vVrtical Sacling](SystemDesign/Scaling.md)
+* [Load Balancing](SystemDesign/Load-Balancing.md)
 * [SQL vs noSQL databases](SystemDesign/Databases.md)
 * [CAP Theorem](SystemDesign/cap-theorem.md)
-* [database partitaioning - WIP](SystemDesign/Sharding.md)
-* [microservices vs monolith - WIP](SystemDesign/Microservices.md)
-* [message queue](SystemDesign/Message-Queue.md)
-* [caching](SystemDesign/Caching.md)
-* [master-slave architecture](SystemDesign/master-slave.md)
-* [consistent hashing - WIP](SystemDesign/consistent-hashing.md)
+* [Database Partitaioning - WIP](SystemDesign/Sharding.md)
+* [Microservices vs Monolith - WIP](SystemDesign/Microservices.md)
+* [Message Queue](SystemDesign/Message-Queue.md)
+* [Caching](SystemDesign/Caching.md)
+* [Master-Slave Architecture](SystemDesign/master-slave.md)
+* [Consistent Hashing - WIP](SystemDesign/consistent-hashing.md)
 * [ZooKeeper](SystemDesign/ZooKeeper.md)
-* [cdn](SystemDesign/cdn.md)
+* [CDN](SystemDesign/cdn.md)
 
 ## HR interview
 ### Questions Banks
