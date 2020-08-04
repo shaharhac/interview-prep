@@ -10,4 +10,5 @@
 * [Leetcode](https://leetcode.com/discuss/interview-question/system-design?currentPage=1&fbclid=IwAR1xNF_-e5R3V0-VFsyvjC5PVJrS1JtYogaf8kXuoM06uc9JgU1ohQLK2-E&orderBy=hot&query=)
 * [Blog post about system design](https://orrsella.com/2016/05/28/preparing-for-a-system-architecture-interview/?fbclid=IwAR2ujOLNCLkbsu21L5KFV3y4nL-iFDSwMiJB-cgCqXSJ8NlhJC4l08EVGcA)
 * [Great post about scaling, introduces important concepts](https://lethain.com/introduction-to-architecting-systems-for-scale/)
+* [github repo full of information](https://github.com/checkcheckzz/system-design-interview)
 * Cracking the code interview - pages 137-145
