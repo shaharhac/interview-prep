@@ -44,7 +44,6 @@ Those repos contains useful links and guides for the  entire interview process.
 * async programming (callbacks, promises, async-await)
 * classical inheritance and prototypal inheritance
 * functional programming with javascript
-* RESTful APIs
 
 #### Computer Science 
 * [Time Complexity](ComputerScience/Time-Complexity.md)
