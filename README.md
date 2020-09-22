@@ -59,7 +59,7 @@ Those repos contains useful links and guides for the  entire interview process.
 
 Recommended [Resources](SystemDesign/Resources.md) for learning and practicing system design.
 
-* [Horizontal vs vVrtical Sacling](SystemDesign/Scaling.md)
+* [Horizontal vs Vertical Sacling](SystemDesign/Scaling.md)
 * [Load Balancing](SystemDesign/Load-Balancing.md)
 * [SQL vs noSQL databases](SystemDesign/Databases.md)
 * [CAP Theorem](SystemDesign/cap-theorem.md)
