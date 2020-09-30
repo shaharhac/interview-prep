@@ -585,3 +585,27 @@ const twoSumOnePass = function(nums, target) {
   ```
   </details>
 </details>
+
+
+
+### General Terms
+
+<details>
+  <summary>Question 1</summary>
+  
+  What does SOLID Stand for ? explain the basic idea
+  
+  <details>
+    <summary>Answer</summary>
+    Single-responsibility principle
+        A class should only have a single responsibility, that is, only changes to one part of the software's specification should be able to affect the specification of the class.
+    Open–closed principle
+        "Software entities ... should be open for extension, but closed for modification."
+    Liskov substitution principle[8]
+        "Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program." See also design by contract.
+    Interface segregation principle[9]
+        "Many client-specific interfaces are better than one general-purpose interface."[4]
+    Dependency inversion principle[10]
+        One should "depend upon abstractions, [not] concretions."[4]
+  </details>
+</details>
