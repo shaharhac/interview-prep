@@ -597,7 +597,8 @@ const twoSumOnePass = function(nums, target) {
   
   <details>
     <summary>Answer</summary>
-**  this is bold **
+***this is bold:***
+  <br>
   shani
   </details>
 </details>
