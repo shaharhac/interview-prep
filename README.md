@@ -46,7 +46,7 @@ Those repos contains useful links and guides for the  entire interview process.
 * functional programming with javascript
 
 #### Computer Science 
-![image](file:///Users/shanihollander/Desktop/Screen%20Shot%202020-10-07%20at%2010.41.36.png)
+![must-know](https://raw.githubusercontent.com/shaharhac/interview-prep/master/must%20know.png)
 * [Time Complexity](ComputerScience/Time-Complexity.md)
 * [Sorting Methods - WIP](ComputerScience/Sorting-Methods.md)
 * [Arrays and string](ComputerScience/Arrays-and-Strings.md)
