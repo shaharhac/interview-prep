@@ -596,9 +596,16 @@ const twoSumOnePass = function(nums, target) {
   What does SOLID Stand for ? explain the basic idea
   
   <details>
+  
     <summary>Answer</summary>
-***this is bold:***
-  <br>
-  shani
+**Single responsibility** - A class should only have a single responsibility, that is, only changes to one part of the software's specification should be able to affect the specification of the class.
+<br/>
+**Open/Close** - Open for Extension, Closed for Modification
+<br/>
+**Liskov substitution pronciple**- Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program
+<br/>
+**Interface segregation principle** - Many client-specific interfaces are better than one general-purpose interface
+<br/>
+**Dependency inversion** - One should "depend upon abstractions, [not] concretions
   </details>
 </details>
