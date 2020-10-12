@@ -31,13 +31,14 @@ Those repos contains useful links and guides for the  entire interview process.
 #### Javascript
 * [toptal interview questions](https://www.toptal.com/javascript/interview-questions)
 * [10 interview questions every javascript developer should know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+* [You Dont know js](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)
+* [Learn JS](https://javascript.info/)
 
 
 ### Topics
 
 ### Javascript
-* [You Dont know js](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)
-* [Learn JS](https://javascript.info/)
+
 * [var vs let vs const](JavaScript/variables.md)
 * [use strict](JavaScript/strict-mode.md)
 * [IIFEs](JavaScript/IIFE.md)
