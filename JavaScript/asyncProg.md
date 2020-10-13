@@ -21,5 +21,5 @@ await only blocks the code execution within the async function. It only makes su
 <br/>
 1. If the output of function2 is dependent on the output of function1, I use await.
 2. If two functions can be run in parallel, create two different `async` functions and then run them in parallel.
-3.To run promises in parallel, create an array of promises and then use `Promise.all(promisesArray)`
-4.Instead of creating huge async functions with many await asyncFunction() in it, it is better to create smaller async functions. This way, we will be aware of not writing too much blocking code.
+3. To run promises in parallel, create an array of promises and then use `Promise.all(promisesArray)`
+4. Instead of creating huge async functions with many await asyncFunction() in it, it is better to create smaller async functions. This way, we will be aware of not writing too much blocking code.
