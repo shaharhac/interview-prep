@@ -21,3 +21,10 @@ complexity:
 <br/>
 [explanation video](https://www.youtube.com/watch?v=4VqmGXwpLqc)
 
+
+### Selection Sort
+complexity:
+<br/>
+`θ(n^2)`
+<br/>
+[explanation video](https://www.youtube.com/watch?v=g-PGLbMth_g)
