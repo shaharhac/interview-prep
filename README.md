@@ -44,7 +44,7 @@ Those repos contains useful links and guides for the  entire interview process.
 * [IIFEs](JavaScript/IIFE.md)
 * [event loop (libuv, v8)](JavaScript/event-loop.md)
 * [closures](JavaScript/closures.md)
-* async programming (callbacks, promises, async-await)
+* [async programming (callbacks, promises, async-await)](JavaScript/asyncProg.md)
 * classical inheritance and prototypal inheritance
 * functional programming with javascript
 
