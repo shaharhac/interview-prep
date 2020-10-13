@@ -19,7 +19,9 @@ async functions return a promise. await is always for a single Promise.
 <br/>
 await only blocks the code execution within the async function. It only makes sure that the next line is executed when the promise resolves. So, if an asynchronous activity has already started, await will not have any effect on it.
 <br/>
-1. If the output of function2 is dependent on the output of function1, I use await.
+
+### When to use What? 
+1. If the output of function2 is dependent on the output of function1, I use `await`.
 2. If two functions can be run in parallel, create two different `async` functions and then run them in parallel.
 3. To run promises in parallel, create an array of promises and then use `Promise.all(promisesArray)`
-4. Instead of creating huge async functions with many await asyncFunction() in it, it is better to create smaller async functions. This way, we will be aware of not writing too much blocking code.
+4. Instead of creating huge async functions with many `await asyncFunction()` in it, it is better to create smaller async functions. This way, we will be aware of not writing too much blocking code.
