@@ -11,7 +11,7 @@ Promises have 3 states. They can be **pending**, which means the outcome isn’t
 It can be **fulfilled**, which means that the asynchronous operation is successful and we have the result.
 It can also be **rejected**, which means that it failed and has a reason for why it failed.
 A promise can be settled, which means that it’s either fulfilled or rejected.
-[promises](https://miro.medium.com/max/1400/1*0mBlni5vsYZE2wFzfVv8EA.png)
+![promises](https://miro.medium.com/max/1400/1*0mBlni5vsYZE2wFzfVv8EA.png)
 ## async/await
 
 async/await is a new way to write promise chains in a shorter way.
