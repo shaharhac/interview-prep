@@ -19,7 +19,7 @@ TOC:
 This is an interview questions bank, which i keep on filling every time i see a worthy question in my study sessions.
 Please enter your questions as well, so we could all have a variety of questions to practice from.
 
-- [Question Bank](Question-Bank.md)
+- [My Question Bank](Question-Bank.md)
 
 ### Resources
 
@@ -30,7 +30,7 @@ Please enter your questions as well, so we could all have a variety of questions
 - [Podcasts](Resources/Podcasts.md)
 - [Practice](Resources/Practice.md)
 - [Repos](Resources/Repos.md)
-- [Question Banks](Resources/Question%20Banks.md)
+- [External Question Banks](Resources/Question%20Banks.md)
 
 ## Coding Interview
 
