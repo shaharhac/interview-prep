@@ -6,18 +6,13 @@ TOC:
 
 - [interview-prep](#interview-prep)
     - [Questions](#questions)
-    - [Github Repos](#github-repos)
     - [Resources](#resources)
-  - [Technical Interview](#technical-interview)
-    - [Questions Banks](#questions-banks)
-      - [General](#general)
-      - [Javascript](#javascript)
-    - [Topics](#topics)
-    - [Javascript](#javascript-1)
-      - [Computer Science](#computer-science)
-      - [System Design](#system-design)
+  - [Coding Interview](#coding-interview)
+    - [Javascript](#javascript)
+    - [Computer Science](#computer-science)
+  - [System Design Interview](#system-design-interview)
   - [HR interview](#hr-interview)
-    - [Questions Banks](#questions-banks-1)
+    - [Questions Banks](#questions-banks)
 
 ### Questions
 
@@ -25,13 +20,6 @@ This is an interview questions bank, which i keep on filling every time i see a 
 Please enter your questions as well, so we could all have a variety of questions to practice from.
 
 - [Question Bank](Question-Bank.md)
-
-### Github Repos
-
-Those repos contains useful links and guides for the entire interview process.
-
-- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
-- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
 ### Resources
 
@@ -41,23 +29,10 @@ Those repos contains useful links and guides for the entire interview process.
 - [Lectures](Resources/Lectures.md)
 - [Podcasts](Resources/Podcasts.md)
 - [Practice](Resources/Practice.md)
+- [Repos](Resources/Repos.md)
+- [Question Banks](Resources/Question%20Banks.md)
 
-## Technical Interview
-
-### Questions Banks
-
-#### General
-
-- [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
-
-#### Javascript
-
-- [toptal interview questions](https://www.toptal.com/javascript/interview-questions)
-- [10 interview questions every javascript developer should know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
-- [You Dont know js](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)
-- [Learn JS](https://javascript.info/)
-
-### Topics
+## Coding Interview
 
 ### Javascript
 
@@ -70,7 +45,7 @@ Those repos contains useful links and guides for the entire interview process.
 - classical inheritance and prototypal inheritance
 - functional programming with javascript
 
-#### Computer Science
+### Computer Science
 
 ![must-know](https://raw.githubusercontent.com/shaharhac/interview-prep/master/must%20know.png)
 
@@ -83,7 +58,7 @@ Those repos contains useful links and guides for the entire interview process.
 - [Graphs - WIP](ComputerScience/Graphs.md)
 - [Trie](ComputerScience/Trie.md)
 
-#### System Design
+## System Design Interview
 
 Recommended [Resources](SystemDesign/Resources.md) for learning and practicing system design.
 
