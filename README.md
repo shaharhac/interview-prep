@@ -19,7 +19,7 @@ TOC:
 This is an interview questions bank, which i keep on filling every time i see a worthy question in my study sessions.
 Please enter your questions as well, so we could all have a variety of questions to practice from.
 
-- [My Question Bank](Question-Bank.md)
+- [My Question Bank](QuestionBank/index.md)
 
 ### Resources
 
