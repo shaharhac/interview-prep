@@ -5,7 +5,7 @@ How would you use a closure to create a private counter?
 <details>
 <summary>Answer</summary>
 
-This question covers: [Closures](../../JavaScript/closures.md)
+This question covers: [Closures](../../javascript/closures.md)
 
 You can create a function within an outer function (a closure) that allows you to update a private variable but the variable wouldn't be accessible from outside the function without the use of a helper function.
 

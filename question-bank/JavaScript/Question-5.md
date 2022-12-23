@@ -30,7 +30,7 @@ foo();
 <details>
 <summary>Answer</summary>
 
-This question covers: [Variables](../../JavaScript/variables.md),
+This question covers: [Variables](../../javascript/variables.md),
 
 ```
 10 11 12
