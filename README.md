@@ -34,6 +34,8 @@ Please enter your questions as well, so we could all have a variety of questions
 
 ## Coding Interview
 
+first, here are some [coding interview tips](coding/coding-questions-tips.md) to always keep in mind
+
 ### Javascript
 
 - [var vs let vs const](coding/javascript/variables.md)
