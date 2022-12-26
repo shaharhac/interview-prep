@@ -25,3 +25,11 @@
 ### Software Development
 
 - [Question 1](software-development/question-1.md)
+
+### Discussions
+
+- [debugging](discussions/debugging.md)
+- [legacy code](discussions/legacy-code.md)
+- [priorities](discussions/priorities.md)
+- [staying up to date](discussions/staying-up-to-date.md)
+- [testing](discussions/testing.md)
