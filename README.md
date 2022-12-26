@@ -38,6 +38,8 @@ first, here are some [coding interview tips](coding/coding-questions-tips.md) to
 
 ### Javascript
 
+some concepts i think worth knowing when looking for a javascript position:
+
 - [var vs let vs const](coding/javascript/variables.md)
 - [use strict](coding/javascript/strict-mode.md)
 - [IIFEs](coding/javascript/IIFE.md)
