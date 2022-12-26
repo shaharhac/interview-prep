@@ -36,12 +36,12 @@ Please enter your questions as well, so we could all have a variety of questions
 
 ### Javascript
 
-- [var vs let vs const](javascript/variables.md)
-- [use strict](javascript/strict-mode.md)
-- [IIFEs](javascript/IIFE.md)
-- [event loop (libuv, v8)](javascript/event-loop.md)
-- [closures](javascript/closures.md)
-- [async programming (callbacks, promises, async-await)](javascript/asyncProg.md)
+- [var vs let vs const](coding/javascript/variables.md)
+- [use strict](coding/javascript/strict-mode.md)
+- [IIFEs](coding/javascript/IIFE.md)
+- [event loop (libuv, v8)](coding/javascript/event-loop.md)
+- [closures](coding/javascript/closures.md)
+- [async programming (callbacks, promises, async-await)](coding/javascript/asyncProg.md)
 - classical inheritance and prototypal inheritance
 - functional programming with javascript
 
@@ -49,14 +49,14 @@ Please enter your questions as well, so we could all have a variety of questions
 
 ![list of topics](./assets/topics-cracking.png)
 
-- [Time Complexity](computer-science/Time-Complexity.md)
-- [Sorting Methods - WIP](computer-science/Sorting-Methods.md)
-- [Arrays and string](computer-science/Arrays-and-Strings.md)
-- [Linked Lists](computer-science/Linked-lists.md)
-- [Stacks and Queues](computer-science/Stacks-and-Queues.md)
-- [Trees](computer-science/Trees.md)
-- [Graphs - WIP](computer-science/Graphs.md)
-- [Trie](computer-science/Trie.md)
+- [Time Complexity](coding/computer-science/Time-Complexity.md)
+- [Sorting Methods - WIP](coding/computer-science/Sorting-Methods.md)
+- [Arrays and string](coding/computer-science/Arrays-and-Strings.md)
+- [Linked Lists](coding/computer-science/Linked-lists.md)
+- [Stacks and Queues](coding/computer-science/Stacks-and-Queues.md)
+- [Trees](coding/computer-science/Trees.md)
+- [Graphs - WIP](coding/computer-science/Graphs.md)
+- [Trie](coding/computer-science/Trie.md)
 
 ## System Design Interview
 
