@@ -45,7 +45,7 @@ some concepts i think worth knowing when looking for a javascript position:
 - [IIFEs](coding/javascript/IIFE.md)
 - [event loop (libuv, v8)](coding/javascript/event-loop.md)
 - [closures](coding/javascript/closures.md)
-- [async programming (callbacks, promises, async-await)](coding/javascript/asyncProg.md)
+- [async programming (callbacks, promises, async-await)](coding/javascript/async-programming.md)
 - classical inheritance and prototypal inheritance
 - functional programming with javascript
 
