@@ -47,7 +47,6 @@ some concepts i think worth knowing when looking for a javascript position:
 - [closures](coding/javascript/closures.md)
 - [async programming (callbacks, promises, async-await)](coding/javascript/async-programming.md)
 - classical inheritance and prototypal inheritance
-- functional programming with javascript
 
 ### Computer Science
 
