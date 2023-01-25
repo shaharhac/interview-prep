@@ -9,7 +9,7 @@ TOC:
     - [Resources](#resources)
   - [Coding Interview](#coding-interview)
     - [Javascript](#javascript)
-    - [Computer Science](#computer-science)
+    - [Data Structure \& Algoritms](#data-structure--algoritms)
   - [System Design Interview](#system-design-interview)
   - [HR interview](#hr-interview)
     - [Questions Banks](#questions-banks)
@@ -48,18 +48,18 @@ some concepts i think worth knowing when looking for a javascript position:
 - [async programming (callbacks, promises, async-await)](coding/javascript/async-programming.md)
 - classical inheritance and prototypal inheritance
 
-### Computer Science
+### Data Structure & Algoritms
 
 ![list of topics](./assets/topics-cracking.png)
 
-- [Time Complexity](coding/computer-science/Time-Complexity.md)
-- [Sorting Methods - WIP](coding/computer-science/Sorting-Methods.md)
-- [Arrays and string](coding/computer-science/Arrays-and-Strings.md)
-- [Linked Lists](coding/computer-science/Linked-lists.md)
-- [Stacks and Queues](coding/computer-science/Stacks-and-Queues.md)
-- [Trees](coding/computer-science/Trees.md)
-- [Graphs - WIP](coding/computer-science/Graphs.md)
-- [Trie](coding/computer-science/Trie.md)
+- [Time Complexity](coding/data-structures/Time-Complexity.md)
+- [Sorting Methods - WIP](coding/data-structures/Sorting-Methods.md)
+- [Arrays and string](coding/data-structures/Arrays-and-Strings.md)
+- [Linked Lists](coding/data-structures/Linked-lists.md)
+- [Stacks and Queues](coding/data-structures/Stacks-and-Queues.md)
+- [Trees](coding/data-structures/Trees.md)
+- [Graphs - WIP](coding/data-structures/Graphs.md)
+- [Trie](coding/data-structures/Trie.md)
 
 ## System Design Interview
 
