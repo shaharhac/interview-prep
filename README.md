@@ -40,7 +40,7 @@ first, here are some [coding interview tips](coding/coding-questions-tips.md) to
 
 some concepts i think worth knowing when looking for a javascript position:
 
-- [var vs let vs const](coding/javascript/variables.md)
+- [Variables & Scopes](coding/javascript/variables.md)
 - [use strict](coding/javascript/strict-mode.md)
 - [IIFEs](coding/javascript/IIFE.md)
 - [event loop (libuv, v8)](coding/javascript/event-loop.md)
