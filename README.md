@@ -43,9 +43,9 @@ some concepts i think worth knowing when looking for a javascript position:
 - [Variables & Scopes](coding/javascript/variables.md)
 - [use strict](coding/javascript/strict-mode.md)
 - [IIFEs](coding/javascript/IIFE.md)
-- [event loop (libuv, v8)](coding/javascript/event-loop.md)
-- [closures](coding/javascript/closures.md)
-- [async programming (callbacks, promises, async-await)](coding/javascript/async-programming.md)
+- [Event Loop (libuv, v8)](coding/javascript/event-loop.md)
+- [Closures](coding/javascript/closures.md)
+- [Asynchronous Programming](coding/javascript/async-programming.md)
 - classical inheritance and prototypal inheritance
 - regular expressions
 - design patterns
